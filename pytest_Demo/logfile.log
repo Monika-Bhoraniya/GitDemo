@@ -1,0 +1,4 @@
+2020-06-12 20:12:31,439 :INFO : pytest_Demo.test_logging :information statement
+2020-06-12 20:12:31,443 :WARNING : pytest_Demo.test_logging :something is in warning mode
+2020-06-12 20:12:31,443 :ERROR : pytest_Demo.test_logging :A major error
+2020-06-12 20:12:31,443 :CRITICAL : pytest_Demo.test_logging :criticaal issue
